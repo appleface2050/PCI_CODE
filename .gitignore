@@ -103,5 +103,5 @@ ENV/
 .ropeproject
 
 
-
 *.pyc
+chapter2/recommendations.pyc
